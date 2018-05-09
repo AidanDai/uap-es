@@ -1,0 +1,26 @@
+{
+  "name": "uap-es",
+  "description": "EAMCScript implementation of ua-parser.",
+  "main": "./lib/parser",
+  "version": "0.0.1",
+  "maintainers": [
+    {
+      "name": "AidanDai",
+      "email": "aidandai@126.com",
+      "web": "https://aidandai.github.io/"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/AidanDai/uap-es.git"
+  },
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "https://raw.githubusercontent.com/AidanDai/uap-es/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "yamlparser": ">=0.0.2"
+  }
+}
